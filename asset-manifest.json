@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.6a1018b1.css",
+    "main.js": "/React-Portfolio/static/js/main.1250706a.js",
+    "static/js/453.adaf17df.chunk.js": "/React-Portfolio/static/js/453.adaf17df.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/React-Portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/Project_Tic_Tac.png": "/React-Portfolio/static/media/Project_Tic_Tac.87711b7842489abfe184.png",
+    "static/media/fontawesome-webfont.eot": "/React-Portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/React-Portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/React-Portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/About.jpg": "/React-Portfolio/static/media/About.384c01f0f0ad9335de86.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/React-Portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/Text_Utils.jpg": "/React-Portfolio/static/media/Text_Utils.61de101a535f28e68b99.jpg",
+    "static/media/basit.jpg": "/React-Portfolio/static/media/basit.e4f1c832c01893b3262d.jpg",
+    "static/media/content_writing.jpg": "/React-Portfolio/static/media/content_writing.6b9eddbe84c8ed871aa4.jpg",
+    "index.html": "/React-Portfolio/index.html",
+    "main.6a1018b1.css.map": "/React-Portfolio/static/css/main.6a1018b1.css.map",
+    "main.1250706a.js.map": "/React-Portfolio/static/js/main.1250706a.js.map",
+    "453.adaf17df.chunk.js.map": "/React-Portfolio/static/js/453.adaf17df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a1018b1.css",
+    "static/js/main.1250706a.js"
+  ]
+}
